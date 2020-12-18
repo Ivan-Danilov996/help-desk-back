@@ -17,8 +17,5 @@
     "forever": "^3.0.4",
     "koa": "^2.13.0",
     "koa-body": "^4.2.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.6"
   }
 }
